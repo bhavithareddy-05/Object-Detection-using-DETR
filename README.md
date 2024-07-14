@@ -1,4 +1,4 @@
-# Object-Detection-using-DETR
+# DETR Demo Project
 
 This project demonstrates the usage of the DETR (DEtection TRansformer) model for object detection.
 
